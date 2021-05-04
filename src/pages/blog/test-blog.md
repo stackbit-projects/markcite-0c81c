@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: This is a test blog
 subtitle: lorem-ipsum
 date: '2021-05-04'
 categories: []
